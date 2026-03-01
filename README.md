@@ -1,54 +1,39 @@
-\# Car Sales Data Analysis
+# Car Sales Data Analysis
 
+## Business Insight
 
+- Identified top-performing car models based on sales volume.
+- Analyzed manufacturer-level sales contribution.
+- Visualized sales distribution trends using bar and pie charts.
 
-This project analyzes car sales data and visualizes trends using Python.
+## Project Overview
 
+This project analyzes car sales data and visualizes trends using Python.  
+The goal is to identify top-selling models and manufacturers using data visualization techniques.
 
+## Features
 
-\## Project Overview
+- Bar chart of top-selling car models
+- Pie chart of sales distribution
+- Manufacturer-level sales analysis
 
-The goal of this project is to analyze car sales data and identify top-selling models and manufacturers using data visualization techniques.
+## Technologies Used
 
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
+## How to Run
 
-\## Features
+1. Install required libraries:
 
-\- Bar chart of top-selling car models
+   pip install pandas matplotlib seaborn
 
-\- Pie chart of sales distribution
+2. Run the script:
 
-\- Manufacturer-level sales analysis
+   python analysis.py
 
-
-
-\## Technologies Used
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Seaborn
-
-
-
-\## How to Run
-
-1\. Install required libraries:
-
-&nbsp;  pip install pandas matplotlib seaborn
-
-
-
-2\. Run the script:
-
-&nbsp;  python analysis.py
-
-
-
-\## Dataset
+## Dataset
 
 Dataset downloaded from Kaggle (Car Sales Dataset).
-
